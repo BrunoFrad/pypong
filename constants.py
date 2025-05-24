@@ -1,0 +1,4 @@
+PLAYER_SIZE = (7, 50)
+WINDOW_SIZE = (800, 600)
+BALL_SIZE = 10
+BALL_VELOCITY = [0.06, 0.06] # velocity in X and in Y
